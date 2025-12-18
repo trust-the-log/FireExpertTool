@@ -20,6 +20,7 @@ The purpose of this project is to simplify FX3 monitoring and logging, providing
 
 🔒 **Private Repository**  
 The repository is available at: [Fx3Net Serial Monitor](https://github.com/FireExpert-Tools/Fx3Net-Serial-Monitoring)
+
 Access is restricted and requires prior authorization.
 ⸻
 
