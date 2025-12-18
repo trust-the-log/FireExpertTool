@@ -18,10 +18,6 @@ The purpose of this project is to simplify FX3 monitoring and logging, providing
 
 🚀 Usage 1. Launch the application on a Windows machine. 2. Connect to the FX3 central unit via the correct serial port. 3. View system events in real-time. 4. Export the collected logs to XLSX or PDF as needed.
 
-🔒 **Private Repository**  
-The repository is available at: [Fx3Net Serial Monitor](https://github.com/FireExpert-Tools/Fx3Net-Serial-Monitoring)
-
-Access is restricted and requires prior authorization.
 ⸻
 
 ⚠️ Requirements • Windows 10 or higher • Compatible serial interface for FX3 central units • Optional: Microsoft Excel for XLSX export
@@ -29,3 +25,12 @@ Access is restricted and requires prior authorization.
 ⸻
 
 💡 Notes • Ideal for system integrators, security technicians, and maintenance personnel • Reduces manual logging and provides professional exportable reports • Helps analyze system events and exclusions efficiently
+
+
+
+
+🔒 **Private Repository**  
+The repository is available at: [Fx3Net Serial Monitor](https://github.com/FireExpert-Tools/Fx3Net-Serial-Monitoring)
+
+Access is restricted and requires prior authorization.
+
