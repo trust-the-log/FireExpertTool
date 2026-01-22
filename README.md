@@ -1,6 +1,6 @@
-FX3Net Serial Monitor
+FireExpertTool
 
-FX3Net Serial Monitor is a Windows application that provides a graphical interface to connect to FX3 central units, similar to HyperTerminal.
+FireExpertTool is a Windows application that provides a graphical interface to connect to FX3 central units, similar to HyperTerminal.
 
 It allows technicians and integrators to monitor events in real-time, including exclusions and other system messages, and to export logs for reporting or analysis.
 
@@ -16,7 +16,7 @@ The purpose of this project is to simplify FX3 monitoring and logging, providing
 
 ⸻
 
-🚀 Usage 1. Launch the application on a Windows machine. 2. Connect to the FX3 central unit via the correct serial port. 3. View system events in real-time. 4. Export the collected logs to XLSX or PDF as needed.
+🚀 Usage 1. Launch the application on a Windows machine. 2. Connect to the FX3 central unit via the correct serial port. 3. View system events in real-time. 4. Export the collected logs.
 
 ⸻
 
@@ -30,7 +30,7 @@ The purpose of this project is to simplify FX3 monitoring and logging, providing
 
 
 🔒 **Private Repository**  
-The repository is available at: [Fx3Net Serial Monitor](https://github.com/FireExpert-Tools/Fx3Net-Serial-Monitoring)
+The repository is available at: [FireExpertTool](https://github.com/FireExpert-Tools/FireExpertTool)
 
 Access is restricted and requires prior authorization.
 
